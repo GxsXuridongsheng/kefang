@@ -1,0 +1,3 @@
+SimpleDateFormat formatter= new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z");
+			 Date cur = new Date(System.currentTimeMillis());
+			 String curtime = formatter.format(cur);

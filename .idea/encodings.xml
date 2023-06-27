@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/action/AdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/BackUpServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/ComServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/MemberServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/NewsServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/ReviveServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/UpServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bean/ComBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/CheckCode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Common.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/DBO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/util/MD5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/admin/images/calendar.js" charset="GBK" />
+  </component>
+</project>

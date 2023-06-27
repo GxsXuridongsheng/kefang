@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kefang:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/kefang_Web_exploded</output-path>
+    <root id="archive" name="kefang_Web exploded.war">
+      <element id="javaee-facet-resources" facet="kefang/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="kefang" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-fileupload.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-io-1.4.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/FCKeditor-2.3.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/json_simple-1.1.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" module-name="kefang" />
+          <element id="library" level="module" name="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/sqljdbc4.jar" module-name="kefang" />
+          <element id="library" level="module" name="servlet-api.jar" module-name="kefang" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

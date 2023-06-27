@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/FCKeditor-2.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/FCKeditor-2.3.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#必修课程/课程_大三下/数据库系统/课设/jsp634基于JSP的宾馆客房管理系统mysql版本/kefang/WebRoot/WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/BackUp/大学/#学习资料/黑马JavaWeb/day13_Tomcat&amp;Servlet/资料/tomcat/apache-tomcat-8.5.31-windows-64位/apache-tomcat-8.5.31/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
